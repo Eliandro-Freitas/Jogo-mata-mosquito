@@ -2,6 +2,13 @@
 Feito com HTML , CSS e JavaScript
 O jogo consiste em acertar os mosquitos quando eles aparecerem na tela,  eles irão aparecer em lugares e tamanhos aleatório , a velocidade irá de acordo com a dificuldade selecionada
 
+
+## GAMEPLAY
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63886691/107804412-a0eba900-6d42-11eb-874e-c34bf503ecb5.gif)
+
+
+
 ## DIFICULDADES -
 ![dificuldade](https://user-images.githubusercontent.com/63886691/107803024-d68f9280-6d40-11eb-8b70-68ab869ab823.png)
 
